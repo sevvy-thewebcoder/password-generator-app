@@ -1,4 +1,4 @@
-# PasswordGenerator-App
+# Random-Password-Generator-App
 
 This is a [Scrimba's](https://www.scrimba.com/) The Front Developer Path course challenge project.
 
@@ -22,10 +22,10 @@ Users should be able to:
 
 - Build Responsive Password Generator App
 - Build and Use:-
--- Functions
--- Conditional Statements (If/Else/Else If)
--- For Loops
--- Arrays etc.
+  - Functions
+  - Conditional Statements (If/Else/Else If)
+  - For Loops
+  - Arrays etc.
 
 ### Screenshot
 
@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/sevvy-thewebcoder/password-generator-app)
-- Live Site URL: [PasswordGenerator-App](https://basketball-scorecounter.netlify.app/)
+- Live Site URL: [PasswordGenerator-App](https://hackproof-password-generator.netlify.app/)
 
 ## My process
 
@@ -54,20 +54,16 @@ Users should be able to:
 ### Assets
 
 - Fonts:-
--- 'Montserrat Subrayada'
--- 'Proza Libre'
--- 'Ubuntu'
+  - 'Montserrat Subrayada'
+  - 'Proza Libre'
+  - 'Ubuntu'
 
 - Colors:-
---hsla(0, 0%, 100%, 1);
---hsla(135, 63%, 39%, 1);
---hsla(32, 100%, 49%, 1);
---hsla(243, 100%, 13%, 0.5);
---linear-gradient(
-  -45deg, 
-  hsla(157, 100%, 19%, 0.94) 0%, 
-  hsla(223, 97%, 26%, 0.95) 100%
-);
+  - hsla(0, 0%, 100%, 1);
+  - hsla(135, 63%, 39%, 1);
+  - hsla(32, 100%, 49%, 1);
+  - hsla(243, 100%, 13%, 0.5);
+  - linear-gradient(-45deg, hsla(157, 100%, 19%, 0.94) 0%, hsla(223, 97%, 26%, 0.95) 100%);
 
 
 ## Author
